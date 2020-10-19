@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,KACC,SAGD,OACC,kCAAA,CACA,gBAGD,aACC,gCAAA,CACA","file":"style.5538f4e6.css","sourceRoot":"../src","sourcesContent":["html {\n\tmargin: 0;\n}\n\n.title {\n\tfont-family: 'Playfair Display', serif;\n\tfont-size: 1.5em;\n}\n\n.description {\n\tfont-family: 'Open Sans', sans-serif;\n\tfont-size: 1em;\n}"]}
