@@ -1,0 +1,2 @@
+html{margin:0;background-color:#000;color:#fff}.flex{display:flex}.flex-1{flex:1}.flex-direction-row{flex-direction:row}.container{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}.title{display:flex;justify-content:center;font-family:Playfair Display,serif;font-size:3.2em}.description{font-family:Open Sans,sans-serif;font-size:1em}.content a:hover{text-decoration:none}.entry{display:flex;justify-content:center}.icon{padding-right:5px}.mail-link{color:#fff;display:inline-block}
+/*# sourceMappingURL=/style.12588042.css.map */
